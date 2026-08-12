@@ -1,2 +1,2 @@
 # qa-playbook
-Vanesa Corro
+Vanesa Corro.
